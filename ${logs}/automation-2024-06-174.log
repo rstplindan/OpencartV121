@@ -1,0 +1,47 @@
+17:56:47.015 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:56:47.391 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+17:56:48.303 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+17:56:48.308 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+17:56:50.348 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:57:40.745 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:57:41.159 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+17:57:42.380 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+17:57:42.393 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+17:57:45.108 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:22:53.955 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:22:54.501 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+18:22:55.388 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+18:22:55.396 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+18:22:57.915 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:25:53.361 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:25:53.496 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+18:25:54.345 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+18:25:54.350 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+18:25:56.056 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:31:21.812 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:31:22.052 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+18:31:23.015 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+18:31:23.020 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+18:31:24.947 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:31:34.214 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:31:34.691 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+18:31:35.554 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+18:31:35.554 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+18:31:37.552 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:31:50.628 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:31:50.946 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+18:31:51.659 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+18:31:51.660 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+18:31:53.095 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:32:38.562 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:32:39.114 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+18:32:39.568 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:32:39.910 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+18:32:40.163 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+18:32:40.168 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+18:32:41.311 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+18:32:41.313 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+18:32:46.194 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:32:46.785 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:32:47.713 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:32:48.145 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***

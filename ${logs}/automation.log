@@ -1,0 +1,9 @@
+20:54:21.109 [main] INFO  testCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
+21:02:17.426 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpencartV121\master.xml"
+21:02:23.332 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:02:23.507 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Myaccount ***
+21:02:24.368 [main] INFO  testCases.TC001_AccountRegistrationTest - *** click on Register ***
+21:02:24.376 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer details ***
+21:02:26.154 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:02:33.879 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest ****
+21:02:36.868 [main] INFO  testCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
